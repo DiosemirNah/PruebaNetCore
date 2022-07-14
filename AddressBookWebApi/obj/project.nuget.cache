@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qJCFvIcaMN6ozqkyUr38GnblAGe9u6M+GNtPscM4sQRuDhefY5J+1TS+L+f8bSQF/PZn3rWvXHl9Hy/CqFLgPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diosemir Nah\\Documents\\MacroPay\\AddressBookWebApi\\AddressBookWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diosemir Nah\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Diosemir Nah\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Diosemir Nah\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Diosemir Nah\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.2\\swashbuckle.aspnetcore.6.3.2.nupkg.sha512",
+    "C:\\Users\\Diosemir Nah\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.2\\swashbuckle.aspnetcore.swagger.6.3.2.nupkg.sha512",
+    "C:\\Users\\Diosemir Nah\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.2\\swashbuckle.aspnetcore.swaggergen.6.3.2.nupkg.sha512",
+    "C:\\Users\\Diosemir Nah\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.2\\swashbuckle.aspnetcore.swaggerui.6.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

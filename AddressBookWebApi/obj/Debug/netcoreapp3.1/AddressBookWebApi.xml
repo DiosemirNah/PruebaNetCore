@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AddressBookWebApi</name>
+    </assembly>
+    <members>
+        <member name="M:AddressBookWebApi.Controllers.ContactsController.GetContacts(System.String)">
+            <summary>
+            Get the list contacts with phrase filter
+            </summary>
+            <param name="phrase">Filter contact name</param>
+            <returns>Returns 200 when exists values</returns>
+        </member>
+        <member name="M:AddressBookWebApi.Controllers.ContactsController.GetContact(System.String)">
+            <summary>
+            Get a contact with id
+            </summary>
+            <param name="contact_id">Search contact id</param>
+            <returns>Returns 200 when exists values</returns>
+        </member>
+        <member name="M:AddressBookWebApi.Controllers.ContactsController.DeleteContact(System.String)">
+            <summary>
+            Delete contacts with a contact id in the JS FILE
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AddressBookWebApi.Controllers.WeatherForecastController.Get">
+            <summary>
+            DEMO DE SWAGGER EN HTTP GET
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
